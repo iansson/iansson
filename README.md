@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have put nothing here to remind myself to put something here.
+There's not a lot here yet.
 
 <!--
 **Toveee/Toveee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
