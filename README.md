@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out [projects collection](https://github.com/iansson/utils) or [the code for my bachelors thesis on validating floating point numbers](https://github.com/iansson/CoqIEEE754Validation)! 
+Check out my [projects collection](https://github.com/iansson/utils) or [the code for my bachelors thesis on validating floating point numbers](https://github.com/iansson/CoqIEEE754Validation)! 
 
 <!--
 **Toveee/Toveee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
